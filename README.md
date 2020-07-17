@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+A ✨ _special_ ✨ repo only for me! Nice!
+
 <!--
 **LittleAndi/LittleAndi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
